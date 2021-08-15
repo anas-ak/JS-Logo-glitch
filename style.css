@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    margin: 0;
+  background-color: black;
+  overflow: hidden;
+  
+}
+
+.container {
+  display: flex;
+    align-items: center;
+    height: 90vh;
+}
+
+canvas {
+  margin: 0 auto;  
+  display: block;
+  letter-spacing:3px;
+  position: relative;
+}
